@@ -1,0 +1,19 @@
+﻿<Window x:Class="ProjektniZadatak.WKorisnici"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WKorisnici" Height="606" Width="680">
+    <Grid>
+        <DataGrid AutoGenerateColumns="True" Height="250" HorizontalAlignment="Left" Margin="41,12,0,0" Name="dgKorisnici" VerticalAlignment="Top" Width="590" />
+        <Button Content="Izmeni" Height="25" HorizontalAlignment="Left" Margin="203,285,0,0" Name="bIzmena" VerticalAlignment="Top" Width="130" Click="bIzmena_Click" />
+        <Button Content="Dodaj" Height="25" HorizontalAlignment="Left" Margin="351,285,0,0" Name="bDodaj" VerticalAlignment="Top" Width="130" Click="bDodaj_Click" />
+        <Button Content="Izbrisi" Height="25" HorizontalAlignment="Left" Margin="501,285,0,0" Name="bIzbrisi" VerticalAlignment="Top" Width="130" Click="bIzbrisi_Click" />
+        <Label Content="Odaberite predmet pretrage" Height="33" HorizontalAlignment="Left" Margin="41,395,0,0" Name="lObavestenje" VerticalAlignment="Top" Width="206" />
+        <TextBox Height="31" HorizontalAlignment="Left" Margin="41,494,0,0" Name="tbPretraga" VerticalAlignment="Top" Width="245" />
+        <Button Content="Pretrazi" Height="34" HorizontalAlignment="Left" Margin="322,494,0,0" Name="bPretrazi" VerticalAlignment="Top" Width="115" Click="bPretrazi_Click" />
+        <Button Content="Prikazi" Height="25" HorizontalAlignment="Left" Margin="41,285,0,0" Name="bPrikaz" VerticalAlignment="Top" Width="130" Click="bPrikaz_Click" />
+        <RadioButton Content="Ime" Height="16" HorizontalAlignment="Left" Margin="305,367,0,0" Name="rbIme" VerticalAlignment="Top" GroupName="rbgPretraga" />
+        <RadioButton Content="Prezime" Height="16" HorizontalAlignment="Left" Margin="305,396,0,0" Name="rbPrezime" VerticalAlignment="Top" GroupName="rbgPretraga" />
+        <RadioButton Content="Korisnicko ime" Height="16" HorizontalAlignment="Left" Margin="305,423,0,0" Name="rbKorIme" VerticalAlignment="Top" GroupName="rbgPretraga" />
+        <Button Content="Prikazi sve" Height="25" HorizontalAlignment="Left" Margin="516,442,0,0" Name="bPrikaziSve" VerticalAlignment="Top" Width="130" Click="bPrikaziSve_Click" />
+    </Grid>
+</Window>

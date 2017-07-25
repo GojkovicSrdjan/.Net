@@ -1,0 +1,21 @@
+﻿<Window x:Class="ProjektniZadatak.WKurseviDetaljno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WKurseviDetaljno" Height="400" Width="537">
+    <Grid>
+        <Label Content="Nivo Jezika" Height="28" HorizontalAlignment="Left" Margin="12,117,0,0" Name="lNivo" VerticalAlignment="Top" Width="117" />
+        <Label Content="Jezik Kursa" Height="28" HorizontalAlignment="Left" Margin="12,69,0,0" Name="lJezik" VerticalAlignment="Top" Width="117" />
+        <Label Content="Naziv Kursa" Height="28" HorizontalAlignment="Left" Margin="12,26,0,0" Name="lNaziv" VerticalAlignment="Top" Width="117" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="135,69,0,0" Name="tbJezik" VerticalAlignment="Top" Width="202" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="135,117,0,0" Name="tbNivo" VerticalAlignment="Top" Width="202" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="135,26,0,0" Name="tbNaziv" VerticalAlignment="Top" Width="202" />
+        <Button Content="Prekini" Height="25" HorizontalAlignment="Left" Margin="22,310,0,0" Name="bPrekini" VerticalAlignment="Top" Width="91" Click="bPrekini_Click" />
+        <Button Content="Sacuvaj" Height="25" HorizontalAlignment="Left" Margin="412,310,0,0" Name="bSacuvaj" VerticalAlignment="Top" Width="91" Click="bSacuvaj_Click" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="199,224,0,0" Name="cbNastavnik" VerticalAlignment="Top" Width="138" />
+        <Label Content="Nastavnik koji predaje kurs" Height="28" HorizontalAlignment="Left" Margin="12,224,0,0" Name="lNastavnik" VerticalAlignment="Top" Width="159" />
+        <Label Content="Ucenici koji pohadjaju kurs" Height="28" HorizontalAlignment="Left" Margin="352,24,0,0" Name="lUcenici" VerticalAlignment="Top" Width="151" />
+        <ListView Height="187" HorizontalAlignment="Left" Margin="352,60,0,0" Name="lvUcenici" VerticalAlignment="Top" Width="151" />
+        <Label Content="Cena Kursa" Height="28" HorizontalAlignment="Left" Margin="12,164,0,0" Name="lCena" VerticalAlignment="Top" Width="117" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="135,164,0,0" Name="tbCena" VerticalAlignment="Top" Width="202" />
+    </Grid>
+</Window>

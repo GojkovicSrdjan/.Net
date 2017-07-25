@@ -1,0 +1,12 @@
+﻿<Window x:Class="ProjektniZadatak.WUplatePretraga"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WUplatePretraga" Height="296" Width="451">
+    <Grid>
+        <Label Content="Odaberite predmet pretrage" Height="33" HorizontalAlignment="Left" Margin="12,22,0,0" Name="lObavestenje" VerticalAlignment="Top" Width="206" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="251,22,0,0" Name="cbPredmetPretrage" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="31" HorizontalAlignment="Left" Margin="12,141,0,0" Name="tbPretraga" VerticalAlignment="Top" Width="245" />
+        <Button Content="Pretrazi" Height="34" HorizontalAlignment="Left" Margin="293,141,0,0" Name="bPretrazi" VerticalAlignment="Top" Width="115" />
+
+    </Grid>
+</Window>

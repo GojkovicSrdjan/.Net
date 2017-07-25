@@ -1,0 +1,561 @@
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\App.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\App.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+E:\FTN\C#\Projekat\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\App.g.cs
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\App.g.cs
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.baml
+L:\C#\Projekat KT3\ProjektniZadatak II\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\App.g.cs
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+E:\FTN\C#\Projekat\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\App.g.cs
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\C#\ProjektniZadatak III\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+G:\C#\ProjektniZadatak III\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+G:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\App.g.cs
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+L:\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+L:\C#\ProjektniZadatak III\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+L:\C#\ProjektniZadatak III\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\App.g.cs
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+E:\FTN\C#\ProjektniZadatak III\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+G:\C#\Projekat Finalni\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+G:\C#\Projekat Finalni\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\App.g.cs
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\C#\Projekat Finalni\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+L:\C#\Projekat Finalni\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WUplateDetaljnoPrikaz.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\App.g.cs
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+L:\C#\Projekat Finalni\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\App.g.cs
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+C:\Users\Srky\Desktop\New folder\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\App.g.cs
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+C:\Users\Srky\Desktop\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.exe
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.pdb
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\bin\Debug\ProjektniZadatak.exe
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\bin\Debug\ProjektniZadatak.pdb
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csprojResolveAssemblyReference.cache
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\MainWindow.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WAdminMeni.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisnici.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKursevi.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavnici.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkola.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUcenici.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplate.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WZapMeni.baml
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WAdminMeni.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisnici.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljno.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKorisniciDetaljnoPrikaz.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKursevi.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WKurseviDetaljno.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavnici.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WNastavniciDetaljno.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkola.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WSkolaDetaljno.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUcenici.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUceniciDetaljno.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplate.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WUplateDetaljno.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\WZapMeni.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\App.g.cs
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak_MarkupCompile.cache
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.g.resources
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.Properties.Resources.resources
+C:\Users\Srdjan\Desktop\github\C#\Projekat RS8_2013\ProjektniZadatak\obj\x86\Debug\ProjektniZadatak.csproj.GenerateResource.Cache

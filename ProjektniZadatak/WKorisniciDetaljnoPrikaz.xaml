@@ -1,0 +1,22 @@
+﻿<Window x:Class="ProjektniZadatak.WKorisniciDetaljnoPrikaz"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WKorisniciDetaljnoPrikaz" Height="357" Width="645">
+    <Grid Height="379" Width="608">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="359*" />
+            <RowDefinition Height="20*" />
+        </Grid.RowDefinitions>
+        <Label Content="Ime" Height="28" HorizontalAlignment="Left" Margin="12,15,0,0" Name="lIme" VerticalAlignment="Top" Width="117" />
+        <Label Content="Password" Height="28" HorizontalAlignment="Left" Margin="12,163,0,0" Name="lPass" VerticalAlignment="Top" Width="117" />
+        <Label Content="Username" Height="28" HorizontalAlignment="Left" Margin="12,113,0,0" Name="lUsername" VerticalAlignment="Top" Width="117" />
+        <Label Content="Prezime" Height="28" HorizontalAlignment="Left" Margin="12,63,0,0" Name="lPrezime" VerticalAlignment="Top" Width="117" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="243,17,0,0" Name="tbIme" VerticalAlignment="Top" Width="202" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="243,63,0,0" Name="tbPrezime" VerticalAlignment="Top" Width="202" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="243,113,0,0" Name="tbUser" VerticalAlignment="Top" Width="202" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="243,165,0,0" Name="tbPass" VerticalAlignment="Top" Width="202" />
+        <Label Content="TipKorisnika" Height="28" HorizontalAlignment="Left" Margin="12,216,0,0" Name="lTip" VerticalAlignment="Top" Width="117" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="243,216,0,0" Name="tbTipKor" VerticalAlignment="Top" Width="202" />
+        <Button Content="Prekini" Height="29" HorizontalAlignment="Left" Margin="476,273,0,0" Name="bPrekid" VerticalAlignment="Top" Width="103" Click="bPrekid_Click" />
+    </Grid>
+</Window>

@@ -1,0 +1,28 @@
+﻿<Window x:Class="ProjektniZadatak.WUceniciDetaljno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WUceniciDetaljno" Height="443" Width="987">
+    <Grid>
+        <Label Content="Ime" Height="28" HorizontalAlignment="Left" Margin="20,34,0,0" Name="lIme" VerticalAlignment="Top" Width="117" />
+        <Label Content="Adresa" Height="28" HorizontalAlignment="Left" Margin="20,218,0,0" Name="lAdresa" VerticalAlignment="Top" Width="117" />
+        <Label Content="JMBG" Height="28" HorizontalAlignment="Left" Margin="20,178,0,0" Name="lJmbg" VerticalAlignment="Top" Width="117" />
+        <Label Content="Broj telefona" Height="28" HorizontalAlignment="Left" Margin="20,131,0,0" Name="lBrTel" VerticalAlignment="Top" Width="117" />
+        <Label Content="Prezime" Height="28" HorizontalAlignment="Left" Margin="20,83,0,0" Name="lPrezime" VerticalAlignment="Top" Width="117" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="143,34,0,0" Name="tbIme" VerticalAlignment="Top" Width="202" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="143,83,0,0" Name="tbPrezime" VerticalAlignment="Top" Width="202" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="143,131,0,0" Name="tbBrTel" VerticalAlignment="Top" Width="202" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="143,178,0,0" Name="tbJmbg" VerticalAlignment="Top" Width="202" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="143,216,0,0" Name="tbAdresa" VerticalAlignment="Top" Width="202" />
+        <Button Content="Prekini" Height="25" HorizontalAlignment="Left" Margin="12,340,0,0" Name="bPrekini" VerticalAlignment="Top" Width="91" Click="bPrekini_Click" />
+        <Button Content="Sacuvaj" Height="25" HorizontalAlignment="Left" Margin="845,340,0,0" Name="bSacuvaj" VerticalAlignment="Top" Width="91" Click="bSacuvaj_Click" />
+        <Label Content="Kursevi koje ucenik pohadja" Height="28" HorizontalAlignment="Left" Margin="659,12,0,0" Name="lKurs" VerticalAlignment="Top" Width="168" />
+        <ComboBox Height="24" HorizontalAlignment="Left" Margin="384,60,0,0" Name="cbKurs" VerticalAlignment="Top" Width="132" />
+        <Button Content="Uplatio novac za kurs" Height="36" HorizontalAlignment="Left" Margin="788,244,0,0" Name="bUplata" VerticalAlignment="Top" Width="140" Click="bUplata_Click" />
+        <ListView Height="125" HorizontalAlignment="Left" Margin="659,60,0,0" Name="lvKursevi" VerticalAlignment="Top" Width="168" />
+        <Label Content="Kursevi" Height="28" HorizontalAlignment="Left" Margin="416,12,0,0" Name="lbNoviKurs" VerticalAlignment="Top" Width="66" />
+        <DataGrid AutoGenerateColumns="False" Height="116" HorizontalAlignment="Left" Margin="361,263,0,0" Name="dgUplate" VerticalAlignment="Top" Width="373" />
+        <Button Content="Dodaj" Height="25" HorizontalAlignment="Left" Margin="546,60,0,0" Name="bDodajKurs" VerticalAlignment="Top" Width="91" Click="bDodajKurs_Click" />
+        <Button Content="Izbrisi" Height="25" HorizontalAlignment="Left" Margin="854,160,0,0" Name="bIzbrisiKurs" VerticalAlignment="Top" Width="91" Click="bIzbrisiKurs_Click" />
+        <Label Content="Dosadasnje uplate ucenika" Height="30" HorizontalAlignment="Left" Margin="465,217,0,0" Name="lUplate" VerticalAlignment="Top" Width="195" />
+    </Grid>
+</Window>

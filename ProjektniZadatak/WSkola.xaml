@@ -1,0 +1,9 @@
+﻿<Window x:Class="ProjektniZadatak.WSkola"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WSkola" Height="384" Width="630">
+    <Grid>
+        <DataGrid AutoGenerateColumns="True" Height="250" HorizontalAlignment="Left" Margin="41,12,0,0" Name="dgSkola" VerticalAlignment="Top" Width="525" />
+        <Button Content="Prikazi/Izmeni" Height="25" HorizontalAlignment="Left" Margin="234,293,0,0" Name="bPrikazIzmena" VerticalAlignment="Top" Width="130" Click="bPrikazIzmena_Click" />
+    </Grid>
+</Window>

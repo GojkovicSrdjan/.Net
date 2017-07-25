@@ -1,0 +1,13 @@
+﻿<Window x:Class="ProjektniZadatak.WAdminMeni"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WAdminMeni" Height="274" Width="525">
+    <Grid>
+        <Button Content="Nastavnici" Height="45" HorizontalAlignment="Left" Margin="188,48,0,0" Name="bNastavnici" VerticalAlignment="Top" Width="127" Click="bNastavnici_Click" />
+        <Button Content="Korisnici" Height="45" HorizontalAlignment="Left" Margin="364,48,0,0" Name="bKorisnici" VerticalAlignment="Top" Width="127" Click="bKorisnici_Click" />
+        <Button Content="Skola" Height="45" HorizontalAlignment="Left" Margin="12,48,0,0" Name="bSkola" VerticalAlignment="Top" Width="127" Click="bSkola_Click" />
+        <Button Content="Ucenici" Height="45" HorizontalAlignment="Left" Margin="12,149,0,0" Name="bUcenici" VerticalAlignment="Top" Width="127" Click="bUcenici_Click" />
+        <Button Content="Kursevi" Height="45" HorizontalAlignment="Left" Margin="188,149,0,0" Name="bKursevi" VerticalAlignment="Top" Width="127" Click="bKursevi_Click" />
+        <Button Content="Uplate" Height="45" HorizontalAlignment="Left" Margin="364,149,0,0" Name="bUplate" VerticalAlignment="Top" Width="127" Click="bUplate_Click" />
+    </Grid>
+</Window>

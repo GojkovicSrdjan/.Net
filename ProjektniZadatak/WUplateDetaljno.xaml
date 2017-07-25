@@ -1,0 +1,19 @@
+﻿<Window x:Class="ProjektniZadatak.WUplateDetaljno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WUplateDetaljno" Height="400" Width="560">
+    <Grid>
+        <Label Content="Valuta" Height="28" HorizontalAlignment="Left" Margin="12,60,0,0" Name="lValuta" VerticalAlignment="Top" Width="117" />
+        <Label Content="Iznos uplate" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="lIznosUplate" VerticalAlignment="Top" Width="117" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="135,12,0,0" Name="tbUplata" VerticalAlignment="Top" Width="202" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="135,60,0,0" Name="tbValuta" VerticalAlignment="Top" Width="202" />
+        <Button Content="Prekini" Height="25" HorizontalAlignment="Left" Margin="22,310,0,0" Name="bPrekini" VerticalAlignment="Top" Width="91" Click="bPrekini_Click" />
+        <Button Content="Sacuvaj" Height="25" HorizontalAlignment="Left" Margin="412,310,0,0" Name="bSacuvaj" VerticalAlignment="Top" Width="91" Click="bSacuvaj_Click" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="199,223,0,0" Name="cbKurs" VerticalAlignment="Top" Width="138" />
+        <Label Content="Kurs za koji je uplacen novac" Height="28" HorizontalAlignment="Left" Margin="12,223,0,0" Name="lKurs" VerticalAlignment="Top" Width="169" ClipToBounds="False" />
+        <Label Content="Ucenik koji je uplatio novac" Height="28" HorizontalAlignment="Left" Margin="352,24,0,0" Name="lUcenici" VerticalAlignment="Top" Width="174" />
+        <Label Content="Datum uplate" Height="28" HorizontalAlignment="Left" Margin="12,111,0,0" Name="lDatum" VerticalAlignment="Top" Width="117" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="365,87,0,0" Name="cbUcenik" VerticalAlignment="Top" Width="138" />
+        <DatePicker Height="41" HorizontalAlignment="Left" Margin="135,114,0,0" Name="dpDatumUplate" VerticalAlignment="Top" Width="137" />
+    </Grid>
+</Window>

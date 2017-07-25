@@ -1,0 +1,25 @@
+﻿<Window x:Class="ProjektniZadatak.WSkolaDetaljno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WSkolaDetaljno" Height="454" Width="586">
+    <Grid>
+        <Label Content="Naziv skole" Height="28" HorizontalAlignment="Left" Margin="25,12,0,0" Name="lNaziv" VerticalAlignment="Top" Width="117" />
+        <Label Content="Adresa" Height="28" HorizontalAlignment="Left" Margin="25,48,0,0" Name="lAdresa" VerticalAlignment="Top" Width="117" />
+        <Label Content="Broj telefona" Height="28" HorizontalAlignment="Left" Margin="25,91,0,0" Name="lBrTel" VerticalAlignment="Top" Width="117" />
+        <Label Content="e-Mail adresa" Height="28" HorizontalAlignment="Left" Margin="25,127,0,0" Name="lMail" VerticalAlignment="Top" Width="117" />
+        <Label Content="Adresa veb stranice" Height="28" HorizontalAlignment="Left" Margin="25,169,0,0" Name="lVebSajt" VerticalAlignment="Top" Width="117" />
+        <Label Content="PIB" Height="28" HorizontalAlignment="Left" Margin="25,213,0,0" Name="lPib" VerticalAlignment="Top" Width="117" />
+        <Label Content="Maticni broj" Height="28" HorizontalAlignment="Left" Margin="25,257,0,0" Name="lMaticniBr" VerticalAlignment="Top" Width="117" />
+        <Label Content="Br. ziro racuna" Height="28" HorizontalAlignment="Left" Margin="25,299,0,0" Name="lBrZiroRacuna" VerticalAlignment="Top" Width="117" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="148,12,0,0" Name="tbNaziv" VerticalAlignment="Top" Width="241" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="148,48,0,0" Name="tbAdresa" VerticalAlignment="Top" Width="241" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="148,91,0,0" Name="tbBrTel" VerticalAlignment="Top" Width="241" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="148,127,0,0" Name="tbMail" VerticalAlignment="Top" Width="241" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="148,169,0,0" Name="tbVebSajt" VerticalAlignment="Top" Width="241" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="148,213,0,0" Name="tbPib" VerticalAlignment="Top" Width="241" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="148,257,0,0" Name="tbMaticniBr" VerticalAlignment="Top" Width="241" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="148,299,0,0" Name="tbBrZiroRacuna" VerticalAlignment="Top" Width="241" />
+        <Button Content="Prekini" Height="25" HorizontalAlignment="Left" Margin="12,368,0,0" Name="bPrekini" VerticalAlignment="Top" Width="91" Click="bPrekini_Click" />
+        <Button Content="Sacuvaj" Height="25" HorizontalAlignment="Left" Margin="416,368,0,0" Name="bSacuvaj" VerticalAlignment="Top" Width="91" Click="bSacuvaj_Click" />
+    </Grid>
+</Window>
